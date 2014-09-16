@@ -1,0 +1,15 @@
+The config script language of emacs: Scheme
+  Compared with VIM config language, emacs config language seems too powerful(about 2014). In about 2014, Bram Moolenaar, 
+the author of VIM declared that there is a plan to upgrade VIM config language to make it a more advanced 
+scripting language. So why a config file could be such complicated that we even need a langage to support it? The truth is 
+that there is demands for it. If you say that Emacs is not an IDE, some people would argue with you. 
+  We all know that Scheme language is just a dialect of the magic language LISP. But what you may not know is that the father 
+of Scheme Language, Guy Lewis Steele Jr., is also the father of Common LISP, and the father of Emacs. This man is great. I 
+suggest to read his biography.
+
+    Although the config language is a kind of Scheme, it is a little different with the others. It is dynamic scoped language.
+  It is a little complicated to explain the difference. Maybe some of you are not intersted in it. But I think, computer 
+  language, is the most beautiful thing to a programmer. I will still say a couple of words about it. For detais, please 
+  refer ______________.
+  
+  
