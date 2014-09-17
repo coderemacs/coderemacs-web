@@ -1,0 +1,3 @@
+The configuration of Emacs is a little different with VIM. There are many configurations already bundled for VIM, but there 
+is no such things for Emacs. It seems that Emacs uses do not like use the others' configuration. However, there are still 
+patterns for configurating Emacs. The highlighter, shortcuts and ____ have to bundled into one. 
